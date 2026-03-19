@@ -1,0 +1,2 @@
+## What I Learned & What’s Next
+This project helped me understand time-series modeling, the importance of avoiding data leakage, and how lag features improve predictions. I learned model comparison and hyperparameter tuning, and saw how different models behave on structured data. Next, I can extend this by building a true forecasting model (predicting future prices), adding rolling features, and experimenting with advanced models like LSTM
